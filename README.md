@@ -1,4 +1,4 @@
-# BigDataManagementEx1
+# BigDataManagement-PageRank
 A PageRank score for tennis players, using Xpath, Crawling &amp; Ranking
 # Q1
 Consider the Wikipedia pages of professional tennis players, e.g., https://en.wikipedia.org/wiki/Andy_Ram.   
